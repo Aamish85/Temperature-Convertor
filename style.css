@@ -1,0 +1,43 @@
+body{
+    align-items: center;
+}
+
+.h{
+    color: red;
+    text-align: center;
+    background-color: rgb(160, 201, 211);
+    padding: 10px;
+   margin: 5px 50px 0 50px;
+    border-radius: 10px;
+    text-shadow: 3px 3px 5px black;
+    font-weight: bold;
+}
+#container {
+    text-align: center;
+    background-color: rgb(149, 187, 175);
+    padding: 50px;
+    border-radius: 10px;
+    margin: 50px;
+    border: 1px solid black;
+}
+
+.input-div {
+    display: inline-block;
+}
+
+.inp {
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+
+}
+
+label {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+    
+}
